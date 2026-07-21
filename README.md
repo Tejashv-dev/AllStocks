@@ -8,4 +8,3 @@ Exchanges included - NSE, BSE, NASDAQ, NYSE, KOSPI, SIX, TSE, LSE, DUS, FWB.
 Added currenncies.csv with thousands of forex pairs.
 
 
-Some Yahoo Finance tickers formed in the given method might not work directly and thus same changes will be made in few hours. 
